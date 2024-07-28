@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "283315088834",
+    "project_id": "bootstraps-38081",
+    "storage_bucket": "bootstraps-38081.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283315088834:android:1e1f756ba2a2a089e0ba5b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_todo_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUdS9AR-asjIV4W_vl7JjmjMIM7TzdsFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
